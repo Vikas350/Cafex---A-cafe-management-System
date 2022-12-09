@@ -6,7 +6,7 @@ A Cafe Management System
 * 1) By using this system, he/she can maintain ordering records of a day. By selecting Cafe Order the system displays a list of Available coffee drinks and the user has to place an order with item quantity
 * 2) A different window is also created for the admin where he can manage (edit) the menu by entering new items or deleting the items or can change the price.
 * 3) The role of the administrator is to maintain employee information including operations like modifying, deleting, updating the employee records and customer order records in the system.
-* 4)Now, talking about the Admin Panel, an admin has full control of the system. He/she can view Total cash and card transactions of the day, add items, delete items, list instant items, item counter, backup system, preview instant orders.
+* 4) Now, talking about the Admin Panel, an admin has full control of the system. He/she can view Total cash and card transactions of the day, add items, delete items, list instant items, item counter, backup system, preview instant orders.
 * ● Features Included:-
 1) Ordering System.
 2) Login System.
