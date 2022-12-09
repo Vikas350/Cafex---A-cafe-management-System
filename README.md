@@ -16,3 +16,13 @@ A Cafe Management System
 6) Add and Delete Cafe Items.
 7) Item Counter.
 
+* Software Prerequisite
+1) J Frame:-The javax.swing.JFrame class is a type of container which inherits the java.awt.Frame class. JFrame works like the main window where components like labels,
+buttons, text fields are added to create a GUI.
+
+2) MySql Database:-MySQL is a full-featured relational database management system (RDBMS). MySQL is a free, open-source relational database management system that uses Structured Query Language (SQL), the most popular language for adding, accessing, and processing data in a database. MySQL is noted for its speed, reliability, and
+flexibility.
+
+3) Netbeans IDE:-NetBeans IDE is a free, open source, integrated development environment (IDE) that enables you to develop desktop, mobile and web applications. The IDE supports application development in various languages, including Java.
+
+
