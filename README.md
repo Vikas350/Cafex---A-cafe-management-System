@@ -1,4 +1,4 @@
-# Cafex---The-True-cafe-of-love
+# Cafex - The True cafe of love
 A Cafe Management System
 
 * Cafe Shop Management System is based on a concept to maintain orders and management of a particular coffee shop. There are two sections in this project, they are Ordering Stuffs and Admin panel.
@@ -10,9 +10,9 @@ A Cafe Management System
 * ● Features Included:-
 1) Ordering System.
 2) Login System.
-3)Admin Panel.
+3) Admin Panel.
 4) Displays total Cash Transactions.
-5) Separate bill for customer(PDF form).
-6)Add and Delete Cafe Items.
-7)Item Counter.
+5) Separate bill for customer(PDF form). 
+6) Add and Delete Cafe Items.
+7) Item Counter.
 
