@@ -29,4 +29,8 @@ flexibility.
 Video Link of Project - https://drive.google.com/file/d/1oBu_z8yghV5v-TgX-WRC5ZEPbP5oMlH7/view?usp=sharing
 
 - Vikas Kushwaha 
+- Shivang Dave
+- Unmay Kharabe
+- Richaansh Gaur
+- Aman Yadav
 - Indian Institute of Information Technology, Nagpur
